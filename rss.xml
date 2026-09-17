@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>强子的博客</title>
+    <link>https://ywq-norepeat-web.github.io/qiang-blog</link>
+    <description>23岁之后开始记录对人生的碎碎念</description>
+    <language>zh-CN</language>
+    <generator>GitPress</generator>
+    <item>
+      <title>你好,世界</title>
+      <link>https://ywq-norepeat-web.github.io/qiang-blog/posts/hello-world/</link>
+      <guid>https://ywq-norepeat-web.github.io/qiang-blog/posts/hello-world/</guid>
+      <pubDate>Thu, 17 Sep 2026 03:00:17 GMT</pubDate>
+      <description>我在 GitPress 上的第一篇文章。</description>
+    </item>
+  </channel>
+</rss>
